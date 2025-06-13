@@ -25,6 +25,7 @@
       "difficulty": "Easy",
       "cuisine": "Italian",
       "caloriesPerServing": 300,
+      "price": 10,
       "tags": [
         "Pizza",
         "Italian"
@@ -40,6 +41,7 @@
     {
       "id": 2,
       "name": "Vegetarian Stir-Fry",
+      "price": 11,
       "ingredients": [
         "Tofu, cubed",
         "Broccoli florets",
@@ -81,6 +83,7 @@
     {
       "id": 3,
       "name": "Chocolate Chip Cookies",
+      "price": 9,
       "ingredients": [
         "All-purpose flour",
         "Butter, softened",
@@ -125,6 +128,7 @@
     {
       "id": 4,
       "name": "Chicken Alfredo Pasta",
+      "price": 11,
       "ingredients": [
         "Fettuccine pasta",
         "Chicken breast, sliced",
@@ -166,6 +170,7 @@
     {
       "id": 5,
       "name": "Mango Salsa Chicken",
+      "price": 15,
       "ingredients": [
         "Chicken thighs",
         "Mango, diced",
@@ -203,6 +208,7 @@
     },
     {
       "id": 6,
+      "price": 8,
       "name": "Quinoa Salad with Avocado",
       "ingredients": [
         "Quinoa, cooked",
@@ -242,6 +248,7 @@
     {
       "id": 7,
       "name": "Tomato Basil Bruschetta",
+      "price": 16,
       "ingredients": [
         "Baguette, sliced",
         "Tomatoes, diced",
@@ -279,6 +286,7 @@
     },
     {
       "id": 8,
+      "price": 19,
       "name": "Beef and Broccoli Stir-Fry",
       "ingredients": [
         "Beef sirloin, thinly sliced",
@@ -320,6 +328,7 @@
     },
     {
       "id": 9,
+      "price": 7,
       "name": "Caprese Salad",
       "ingredients": [
         "Tomatoes, sliced",
@@ -356,6 +365,7 @@
     },
     {
       "id": 10,
+      "price": 8,
       "name": "Shrimp Scampi Pasta",
       "ingredients": [
         "Linguine pasta",
@@ -396,6 +406,7 @@
     },
     {
       "id": 11,
+      "price": 14,
       "name": "Chicken Biryani",
       "ingredients": [
         "Basmati rice",
@@ -444,6 +455,7 @@
     },
     {
       "id": 12,
+      "price": 11,
       "name": "Chicken Karahi",
       "ingredients": [
         "Chicken, cut into pieces",
@@ -491,6 +503,7 @@
     },
     {
       "id": 13,
+      "price": 12,
       "name": "Aloo Keema",
       "ingredients": [
         "Ground beef",
@@ -538,6 +551,7 @@
     },
     {
       "id": 14,
+      "price": 15,
       "name": "Chapli Kebabs",
       "ingredients": [
         "Ground beef",
@@ -586,6 +600,7 @@
     },
     {
       "id": 15,
+      "price": 16,
       "name": "Saag (Spinach) with Makki di Roti",
       "ingredients": [
         "Mustard greens, washed and chopped",
@@ -631,6 +646,7 @@
     },
     {
       "id": 16,
+      "price": 10,
       "name": "Japanese Ramen Soup",
       "ingredients": [
         "Ramen noodles",
@@ -675,6 +691,7 @@
     },
     {
       "id": 17,
+      "price": 14,
       "name": "Moroccan Chickpea Tagine",
       "ingredients": [
         "Chickpeas, cooked",
@@ -719,6 +736,7 @@
     },
     {
       "id": 18,
+      "price": 11,
       "name": "Korean Bibimbap",
       "ingredients": [
         "Cooked white rice",
@@ -761,6 +779,7 @@
     },
     {
       "id": 19,
+      "price": 13,
       "name": "Greek Moussaka",
       "ingredients": [
         "Eggplants, sliced",
@@ -809,6 +828,7 @@
     },
     {
       "id": 20,
+      "price": 20,
       "name": "Butter Chicken (Murgh Makhani)",
       "ingredients": [
         "Chicken thighs, boneless and skinless",
@@ -853,6 +873,7 @@
     },
     {
       "id": 21,
+      "price": 14,
       "name": "Thai Green Curry",
       "ingredients": [
         "Chicken thighs, boneless and skinless",
@@ -892,6 +913,7 @@
     },
     {
       "id": 22,
+      "price": 14,
       "name": "Mango Lassi",
       "ingredients": [
         "Ripe mango, peeled and diced",
@@ -931,6 +953,7 @@
     },
     {
       "id": 23,
+      "price": 22,
       "name": "Italian Tiramisu",
       "ingredients": [
         "Espresso, brewed and cooled",
@@ -970,6 +993,7 @@
     },
     {
       "id": 24,
+      "price": 14,
       "name": "Turkish Kebabs",
       "ingredients": [
         "Ground lamb or beef",
@@ -1010,6 +1034,7 @@
     },
     {
       "id": 25,
+      "price": 13,
       "name": "Blueberry Banana Smoothie",
       "ingredients": [
         "Blueberries, fresh or frozen",
@@ -1047,6 +1072,7 @@
     },
     {
       "id": 26,
+      "price": 12,
       "name": "Mexican Street Corn (Elote)",
       "ingredients": [
         "Corn on the cob",
@@ -1083,6 +1109,7 @@
     },
     {
       "id": 27,
+      "price": 15,
       "name": "Russian Borscht",
       "ingredients": [
         "Beets, peeled and shredded",
@@ -1124,6 +1151,7 @@
     },
     {
       "id": 28,
+      "price": 20,
       "name": "South Indian Masala Dosa",
       "ingredients": [
         "Dosa batter (fermented rice and urad dal batter)",
@@ -1166,6 +1194,7 @@
     },
     {
       "id": 29,
+      "price": "17",
       "name": "Lebanese Falafel Wrap",
       "ingredients": [
         "Falafel balls",
@@ -1205,6 +1234,7 @@
     },
     {
       "id": 30,
+      "price": "20",
       "name": "Brazilian Caipirinha",
       "ingredients": [
         "Cachaça (Brazilian sugarcane spirit)",

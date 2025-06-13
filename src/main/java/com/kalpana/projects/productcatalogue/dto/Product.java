@@ -5,6 +5,7 @@ import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
 
+import java.math.BigInteger;
 import java.util.Set;
 
 @Getter
@@ -20,4 +21,5 @@ public class Product {
     private int reviewCount;
     private Set<String> mealType;
     private Set<String> tags;
+    private BigInteger price;
 }
