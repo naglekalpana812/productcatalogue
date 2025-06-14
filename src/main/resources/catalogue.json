@@ -285,48 +285,6 @@
       ]
     },
     {
-      "id": 8,
-      "price": 19,
-      "name": "Beef and Broccoli Stir-Fry",
-      "ingredients": [
-        "Beef sirloin, thinly sliced",
-        "Broccoli florets",
-        "Soy sauce",
-        "Oyster sauce",
-        "Sesame oil",
-        "Garlic, minced",
-        "Ginger, minced",
-        "Cornstarch",
-        "Cooked white rice for serving"
-      ],
-      "instructions": [
-        "In a bowl, mix soy sauce, oyster sauce, sesame oil, and cornstarch to create the sauce.",
-        "In a wok, stir-fry thinly sliced beef until browned. Remove from the wok.",
-        "Stir-fry broccoli florets, minced garlic, and minced ginger in the same wok.",
-        "Add the cooked beef back to the wok and pour the sauce over the mixture.",
-        "Stir until everything is coated and heated through.",
-        "Serve over cooked white rice."
-      ],
-      "prepTimeMinutes": 20,
-      "cookTimeMinutes": 15,
-      "servings": 4,
-      "difficulty": "Medium",
-      "cuisine": "Asian",
-      "caloriesPerServing": 380,
-      "tags": [
-        "Beef",
-        "Stir-fry",
-        "Asian"
-      ],
-      "userId": 18,
-      "image": "https://cdn.dummyjson.com/recipe-images/8.webp",
-      "rating": 4.7,
-      "reviewCount": 58,
-      "mealType": [
-        "Dinner"
-      ]
-    },
-    {
       "id": 9,
       "price": 7,
       "name": "Caprese Salad",
@@ -502,103 +460,6 @@
       ]
     },
     {
-      "id": 13,
-      "price": 12,
-      "name": "Aloo Keema",
-      "ingredients": [
-        "Ground beef",
-        "Potatoes, peeled and diced",
-        "Onions, finely chopped",
-        "Tomatoes, chopped",
-        "Ginger-garlic paste",
-        "Cumin powder",
-        "Coriander powder",
-        "Turmeric powder",
-        "Red chili powder",
-        "Cooking oil",
-        "Fresh coriander leaves",
-        "Salt to taste"
-      ],
-      "instructions": [
-        "In a pan, heat cooking oil and sauté chopped onions until golden brown.",
-        "Add ginger-garlic paste and sauté until fragrant.",
-        "Add ground beef and cook until browned. Drain excess oil if needed.",
-        "Add diced potatoes, chopped tomatoes, and spices. Mix well.",
-        "Cover and simmer until the potatoes are tender and the masala is well-cooked.",
-        "Garnish with fresh coriander leaves and serve hot with naan or rice."
-      ],
-      "prepTimeMinutes": 25,
-      "cookTimeMinutes": 35,
-      "servings": 5,
-      "difficulty": "Medium",
-      "cuisine": "Pakistani",
-      "caloriesPerServing": 380,
-      "tags": [
-        "Keema",
-        "Potatoes",
-        "Main course",
-        "Pakistani",
-        "Asian"
-      ],
-      "userId": 152,
-      "image": "https://cdn.dummyjson.com/recipe-images/13.webp",
-      "rating": 4.6,
-      "reviewCount": 53,
-      "mealType": [
-        "Lunch",
-        "Dinner"
-      ]
-    },
-    {
-      "id": 14,
-      "price": 15,
-      "name": "Chapli Kebabs",
-      "ingredients": [
-        "Ground beef",
-        "Onions, finely chopped",
-        "Tomatoes, finely chopped",
-        "Green chilies, chopped",
-        "Coriander leaves, chopped",
-        "Pomegranate seeds",
-        "Ginger-garlic paste",
-        "Cumin powder",
-        "Coriander powder",
-        "Red chili powder",
-        "Egg",
-        "Cooking oil",
-        "Salt to taste"
-      ],
-      "instructions": [
-        "In a large bowl, mix ground beef, chopped onions, tomatoes, green chilies, coriander leaves, and pomegranate seeds.",
-        "Add ginger-garlic paste, cumin powder, coriander powder, red chili powder, and salt. Mix well.",
-        "Add an egg to bind the mixture and form into round flat kebabs.",
-        "Heat cooking oil in a pan and shallow fry the kebabs until browned on both sides.",
-        "Serve hot with naan or mint chutney."
-      ],
-      "prepTimeMinutes": 30,
-      "cookTimeMinutes": 20,
-      "servings": 4,
-      "difficulty": "Medium",
-      "cuisine": "Pakistani",
-      "caloriesPerServing": 320,
-      "tags": [
-        "Kebabs",
-        "Beef",
-        "Indian",
-        "Pakistani",
-        "Asian"
-      ],
-      "userId": 152,
-      "image": "https://cdn.dummyjson.com/recipe-images/14.webp",
-      "rating": 4.7,
-      "reviewCount": 98,
-      "mealType": [
-        "Lunch",
-        "Dinner",
-        "Snacks"
-      ]
-    },
-    {
       "id": 15,
       "price": 16,
       "name": "Saag (Spinach) with Makki di Roti",
@@ -730,98 +591,6 @@
       "image": "https://cdn.dummyjson.com/recipe-images/17.webp",
       "rating": 4.5,
       "reviewCount": 50,
-      "mealType": [
-        "Dinner"
-      ]
-    },
-    {
-      "id": 18,
-      "price": 11,
-      "name": "Korean Bibimbap",
-      "ingredients": [
-        "Cooked white rice",
-        "Beef bulgogi (marinated and grilled beef slices)",
-        "Carrots, julienned and sautéed",
-        "Spinach, blanched and seasoned",
-        "Zucchini, sliced and grilled",
-        "Bean sprouts, blanched",
-        "Fried egg",
-        "Gochujang (Korean red pepper paste)",
-        "Sesame oil",
-        "Toasted sesame seeds"
-      ],
-      "instructions": [
-        "Arrange cooked white rice in a bowl.",
-        "Top with beef bulgogi, sautéed carrots, seasoned spinach, grilled zucchini, and blanched bean sprouts.",
-        "Place a fried egg on top and drizzle with gochujang and sesame oil.",
-        "Sprinkle with toasted sesame seeds before serving.",
-        "Mix everything together before enjoying this delicious Korean bibimbap!",
-        "Feel free to customize with additional vegetables or protein."
-      ],
-      "prepTimeMinutes": 30,
-      "cookTimeMinutes": 20,
-      "servings": 2,
-      "difficulty": "Medium",
-      "cuisine": "Korean",
-      "caloriesPerServing": 550,
-      "tags": [
-        "Bibimbap",
-        "Korean",
-        "Rice"
-      ],
-      "userId": 121,
-      "image": "https://cdn.dummyjson.com/recipe-images/18.webp",
-      "rating": 4.9,
-      "reviewCount": 56,
-      "mealType": [
-        "Dinner"
-      ]
-    },
-    {
-      "id": 19,
-      "price": 13,
-      "name": "Greek Moussaka",
-      "ingredients": [
-        "Eggplants, sliced",
-        "Ground lamb or beef",
-        "Onions, finely chopped",
-        "Garlic, minced",
-        "Tomatoes, crushed",
-        "Red wine",
-        "Cinnamon",
-        "Allspice",
-        "Nutmeg",
-        "Olive oil",
-        "Milk",
-        "Flour",
-        "Parmesan cheese",
-        "Egg yolks"
-      ],
-      "instructions": [
-        "Preheat oven to 375°F (190°C).",
-        "Sauté sliced eggplants in olive oil until browned. Set aside.",
-        "In the same pan, cook chopped onions and minced garlic until softened.",
-        "Add ground lamb or beef and brown. Stir in crushed tomatoes, red wine, and spices.",
-        "In a separate saucepan, make béchamel sauce: melt butter, whisk in flour, add milk, and cook until thickened.",
-        "Remove from heat and stir in Parmesan cheese and egg yolks.",
-        "In a baking dish, layer eggplants and meat mixture. Top with béchamel sauce.",
-        "Bake for 40-45 minutes until golden brown. Let it cool before slicing.",
-        "Serve slices of moussaka warm and enjoy this Greek classic!"
-      ],
-      "prepTimeMinutes": 45,
-      "cookTimeMinutes": 45,
-      "servings": 6,
-      "difficulty": "Medium",
-      "cuisine": "Greek",
-      "caloriesPerServing": 420,
-      "tags": [
-        "Moussaka",
-        "Greek"
-      ],
-      "userId": 173,
-      "image": "https://cdn.dummyjson.com/recipe-images/19.webp",
-      "rating": 4.3,
-      "reviewCount": 26,
       "mealType": [
         "Dinner"
       ]
@@ -992,47 +761,6 @@
       ]
     },
     {
-      "id": 24,
-      "price": 14,
-      "name": "Turkish Kebabs",
-      "ingredients": [
-        "Ground lamb or beef",
-        "Onions, grated",
-        "Garlic, minced",
-        "Parsley, finely chopped",
-        "Cumin",
-        "Coriander",
-        "Red pepper flakes",
-        "Salt and pepper to taste",
-        "Flatbread for serving",
-        "Tahini sauce"
-      ],
-      "instructions": [
-        "In a bowl, mix ground meat, grated onions, minced garlic, chopped parsley, and spices.",
-        "Form the mixture into kebab shapes and grill until fully cooked.",
-        "Serve the kebabs on flatbread with a drizzle of tahini sauce.",
-        "Enjoy these flavorful Turkish Kebabs with your favorite sides."
-      ],
-      "prepTimeMinutes": 25,
-      "cookTimeMinutes": 15,
-      "servings": 4,
-      "difficulty": "Easy",
-      "cuisine": "Turkish",
-      "caloriesPerServing": 280,
-      "tags": [
-        "Kebabs",
-        "Turkish",
-        "Grilling"
-      ],
-      "userId": 26,
-      "image": "https://cdn.dummyjson.com/recipe-images/24.webp",
-      "rating": 4.6,
-      "reviewCount": 78,
-      "mealType": [
-        "Dinner"
-      ]
-    },
-    {
       "id": 25,
       "price": 13,
       "name": "Blueberry Banana Smoothie",
@@ -1105,48 +833,6 @@
       "mealType": [
         "Snack",
         "Side Dish"
-      ]
-    },
-    {
-      "id": 27,
-      "price": 15,
-      "name": "Russian Borscht",
-      "ingredients": [
-        "Beets, peeled and shredded",
-        "Cabbage, shredded",
-        "Potatoes, diced",
-        "Onions, finely chopped",
-        "Carrots, grated",
-        "Tomato paste",
-        "Beef or vegetable broth",
-        "Garlic, minced",
-        "Bay leaves",
-        "Sour cream for serving"
-      ],
-      "instructions": [
-        "In a pot, sauté chopped onions and garlic until softened.",
-        "Add shredded beets, cabbage, diced potatoes, grated carrots, and tomato paste.",
-        "Pour in broth and add bay leaves. Simmer until vegetables are tender.",
-        "Serve hot with a dollop of sour cream on top.",
-        "Enjoy the hearty and comforting flavors of Russian Borscht!"
-      ],
-      "prepTimeMinutes": 30,
-      "cookTimeMinutes": 40,
-      "servings": 6,
-      "difficulty": "Medium",
-      "cuisine": "Russian",
-      "caloriesPerServing": 220,
-      "tags": [
-        "Borscht",
-        "Russian",
-        "Soup"
-      ],
-      "userId": 1,
-      "image": "https://cdn.dummyjson.com/recipe-images/27.webp",
-      "rating": 4.3,
-      "reviewCount": 39,
-      "mealType": [
-        "Dinner"
       ]
     },
     {
